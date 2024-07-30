@@ -9,9 +9,9 @@ Features:-
 5.Display Information: View all models and their features with their current statuses.
 
 Usage:-
-Create and Read: Add new models and view their features.
-Update Features: Modify the status of existing features.
-Display: View all models and their features.
-Release Date: Check the projected release date of completed models.
-Delete: Remove features or entire models from the system.
-Exit: Exit the application.
+1.Create and Read: Add new models and view their features.
+2.Update Features: Modify the status of existing features.
+3.Display: View all models and their features.
+4.Release Date: Check the projected release date of completed models.
+5.Delete: Remove features or entire models from the system.
+6.Exit: Exit the application.
